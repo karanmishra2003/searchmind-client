@@ -151,19 +151,17 @@ npm run build
 npm start
 ```
 
+## 🔗 Live Demo
+
+- **Frontend**: [https://searchmind-client.vercel.app](https://searchmind-client.vercel.app) (Vercel)
+- **Backend API**: [https://searchmind-server-latest.onrender.com](https://searchmind-server-latest.onrender.com) (Render)
+- **API Documentation**: [https://searchmind-server-latest.onrender.com/docs](https://searchmind-server-latest.onrender.com/docs) (FastAPI Docs)
+
 ## 🔗 Related Repositories
 
 - **Backend API**: SearchMind Server (Python/FastAPI)
 - **Docker Images**: Available on Docker Hub
   - Server: `karanmishra1412/searchmind-server:latest`
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
